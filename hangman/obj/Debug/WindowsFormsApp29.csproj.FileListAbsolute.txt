@@ -1,0 +1,10 @@
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe.config
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.pdb
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csprojAssemblyReference.cache
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Form1.resources
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Properties.Resources.resources
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.GenerateResource.cache
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
+C:\Users\Mobin\source\repos\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb
